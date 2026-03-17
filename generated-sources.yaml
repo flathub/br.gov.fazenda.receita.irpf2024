@@ -25,9 +25,9 @@
 
   - type: extra-data
     filename: BBENS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/BBENS__20260314_20260314021519.zip
-    size: 7692
-    sha256: 4973603c2768ec02d1cb5efeda6668409983a65aa8b74de65a7c1ad7ada0c6fb
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/BBENS__20260317_20260317021525.zip
+    size: 7694
+    sha256: 0edf211da782163f5cc57344d40b67172d8dc8ef13bb1e63c482432851ce0947
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
