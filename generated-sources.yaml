@@ -14,9 +14,9 @@
 
   - type: extra-data
     filename: BANCO.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/BANCO__20260314_20260314021519.zip
-    size: 801
-    sha256: 47a03e3172a4f17260d4b9c9a8c0b53c2f391847e3ce09c01447cc160719edf8
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/BANCO__20260317_20260317021525.zip
+    size: 778
+    sha256: 1262fda2920b2a6415f2c1fd76d471bbf12d5f9c7956830eb63683106477c5a2
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
