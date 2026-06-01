@@ -70,9 +70,9 @@ modules:
         path: icon-256.png
       - type: extra-data
         filename: irpf.zip
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/arquivos/IRPF2024-1.8.zip
-        sha256: 214ee63d9965bfdccc795323cd647fc25ce154fbd26b58a900c66eef6b07b6b0
-        size: 50400673
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/arquivos/IRPF2024-1.9.zip
+        sha256: 7ac23329a3a03a62b094e81dff0f3f346e8df3c880ff72aab925e827b081b963
+        size: 50400790
         x-checker-data:
           type: html
           url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
