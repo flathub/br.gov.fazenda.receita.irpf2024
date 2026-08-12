@@ -47,9 +47,9 @@
 
   - type: extra-data
     filename: CFVAL.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/CFVAL__20240601_20240601093248.zip
-    size: 577
-    sha256: 52a450fff26f7707cf877df9731b0b2207387e1bdfd37fcb299b5ff839b45b47
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/CFVAL__20260602_20260812051355.zip
+    size: 578
+    sha256: 372ba9859883f73c0b6d2329a5bc4b38df27e84d91150649bc2836283e2163b3
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
