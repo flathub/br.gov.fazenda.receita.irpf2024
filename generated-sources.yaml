@@ -102,9 +102,9 @@
 
   - type: extra-data
     filename: LINKS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/LINKS__20260827_20260828051345.zip
-    size: 4319
-    sha256: c8efe9e845e4d112cf5afe63889737606f3f974cdc97d710cd6888b35bf01cda
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/LINKS__20261103_20261104051534.zip
+    size: 4312
+    sha256: aa993975da8e80ab1b24beafb14f6e432c53dfb6b314d98a82173741c4c4c212
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
